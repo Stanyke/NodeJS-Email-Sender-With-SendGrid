@@ -1,5 +1,5 @@
 # NodeJS-Email-Sender-With-SendGrid
-This is a simple, easy and fast email sender with the help of SendGrid's API n NodeJS which helps your users/customers receive email within 1 - 3 seconds
+This is a simple, easy and fast email sender with the help of SendGrid's API n NodeJS which helps your users/customers receive email within 1-3 seconds
 
 # How To Use This App
 1. This web application server runs on port 3000 therefore you have to visit localhost:3000 to use app, thou you could make changes after running **npm install** to install all dependencies used in this app.
